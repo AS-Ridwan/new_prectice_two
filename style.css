@@ -21,6 +21,8 @@ main {
   width: 870px;
   background-color: #ffff;
   padding: 30px;
+  margin-bottom: 20px;
+  border-radius: 10px;
 }
 /* top players */
 .section-title {
